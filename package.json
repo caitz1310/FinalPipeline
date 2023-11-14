@@ -8,6 +8,6 @@
             "test": "echo 'Test step here'",
             "deploy": "echo 'Deploy step here'"
         },
-        "author": "Capsicum",
+        "author": "Caitlin",
         "license": "ISC"
     }
